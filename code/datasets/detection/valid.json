@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "image_url": "datasets\\detection\\passport\\1041.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1041.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1042.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1042.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1043.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1043.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1044.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1044.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1045.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1045.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1046.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1046.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1047.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1047.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1048.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1048.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1049.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1049.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1050.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1050.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1051.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1051.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1052.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1052.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1053.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1053.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1054.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1054.json"
+        },
+        {
+            "image_url": "datasets\\detection\\passport\\1055.jpg",
+            "annotation_url": "datasets\\detection\\passport\\1055.json"
+        }
+    ]
+}
